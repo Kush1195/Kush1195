@@ -1,5 +1,9 @@
 ### Hi there, I'm Kushal Mehta ![visitors](https://visitor-badge.glitch.me/badge?page_id=Kush1195.visitor-badge) 👋
 
+I am a senior android developer. I love programming and playing games.
+
+I have the passion and curiosity required to learn New Things In Android Technology, Habitually coding about Android Development For Android community
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,4 +18,3 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kush1195&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kush1195)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kush1195&hide_progress=true)
