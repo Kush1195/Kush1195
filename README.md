@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div style="height: 100%; width:100%; font-size:0;">
     <div id="header" align="start" style="width:50%;">
       <p>
-        I am a Senior Android Developer. I love programming and playing games.\n
+        I am a Senior Android Developer. I love programming and playing games.<br>
         I have the passion and curiosity required to learn New Things In Android Technology, Habitually coding about Android Development For Android community.
       </p>
     </div>
