@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div style="height: 100%; width:100%; font-size:0;">
     <div id="header" align="start" style="width:50%;">
-            I am a Senior Android Developer.
+            456464
            
     </div>
     <div id="footer" align="end" style="width:50%;">
