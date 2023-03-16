@@ -41,19 +41,16 @@
         <b>Talking about my Personal Stuffs:</b>
       </p>
       <p>
-        - 🌱 I’m currently learning ...
+        🤔  I’m currently working on something cool
       </p>
       <p>
-        - 👯 I’m looking to collaborate on ...
+        🌱 I’m currently learning MVVM with Clean Architecture
       </p>
       <p>
-        - 🤔 I’m looking for help with ...
+        📫 How to reach me: kushmehta1195@gmail.com
       </p>
       <p>
-        - 💬 Ask me about ...
-      </p>
-      <p>
-        - 📫 How to reach me: ...
+        💬 Ask me about anything, I am happy to help
       </p>
     </div>
    
