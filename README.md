@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 ![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=Kush1195&count_private=true&show_icons=true&theme=radical&hide_rank=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kush1195)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
