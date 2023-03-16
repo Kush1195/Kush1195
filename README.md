@@ -20,9 +20,7 @@ Here are some ideas to get you started:
             - 😄 Pronouns: ...
             - ⚡ Fun fact: ...
     </div>
-    <div id="footer" align="end" style="width:50%;">
-        <img src="https://github.com/KushalMehta1995/KushalMehta1995/blob/main/93699-coding.gif" width="250" height="250"/>
-    </div>
+    
 </div>
 
 - 🔭 I’m currently working on ...
