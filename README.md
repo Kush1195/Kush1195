@@ -9,7 +9,7 @@ I have the passion and curiosity required to learn New Things In Android Technol
 
 Here are some ideas to get you started:
 
-<div id="container" style="height: 100%; width:100%; font-size: 0;">
+<div id="container" style="height: 100%; width:100%; font-size: 0; display: inline-block; *display: inline; zoom: 1; vertical-align: top; font-size: 12px;">
     <div id="left" style="width: 25%; background: blue;">Left Side Menu</div>
     <div id="middle" style="width: 50%; background: green;">Random Content</div>
     <div id="right" style="width: 25%; background: yellow;">Right Side Menu</div>
