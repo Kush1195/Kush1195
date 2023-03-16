@@ -20,6 +20,7 @@ Here are some ideas to get you started:
     <div id="header" align="start" style="width:50%;">
       <p>
         I am a Senior Android Developer. I love programming and playing games.
+        I have the passion and curiosity required to learn New Things In Android Technology, Habitually coding about Android Development For Android community.
       </p>
     </div>
     <div id="footer" align="end" style="width:50%;">
