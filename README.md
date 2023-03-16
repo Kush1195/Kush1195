@@ -7,7 +7,7 @@ I am a senior android developer. I love programming and playing games.
 
 I have the passion and curiosity required to learn New Things In Android Technology, Habitually coding about Android Development For Android community
 
-![](https://github.com/KushalMehta1995/KushalMehta1995/blob/main/93699-coding.gif)
+<img src="https://github.com/KushalMehta1995/KushalMehta1995/blob/main/93699-coding.gif" width="100" height="100" />
 
 Here are some ideas to get you started:
 
