@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 <div style="height: 100%; width:100%; font-size:0;">
     <div id="header" align="start" style="width:50%;">
-            456464
+      <p>
+        I am a Senior Android Developer.
+      </p>
     </div>
     <div id="footer" align="end" style="width:50%;">
         <img src="https://github.com/KushalMehta1995/KushalMehta1995/blob/main/93699-coding.gif" width="250" height="250"/>
