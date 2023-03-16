@@ -23,11 +23,6 @@
 </p>
 
 
-
-
-
-
-
 <div style="height: 100%; width:100%; font-size:0; display:flex;">
     <div style="display:inline-block;zoom:1;vertical-align:top;font-size:12px;width:50%;">
       <p>
@@ -54,8 +49,6 @@
     </div>
    
 </div>
-<br>
-<br>
 <br>
 
 <h3><g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
