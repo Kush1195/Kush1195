@@ -1,11 +1,13 @@
 ### Hi there, I'm Kushal Mehta ![visitors](https://visitor-badge.glitch.me/badge?page_id=KushalMehta1995.visitor-badge) 👋
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)[<a href=”https://www.linkedin.com/in/yushi95/">]
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 
 I am a senior android developer. I love programming and playing games.
 
 I have the passion and curiosity required to learn New Things In Android Technology, Habitually coding about Android Development For Android community
+
+![](https://github.com/KushalMehta1995/KushalMehta1995/blob/main/93699-coding.gif)
 
 Here are some ideas to get you started:
 
