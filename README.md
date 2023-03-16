@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Kushal Mehta ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) 👋
 
 Here are some ideas to get you started:
 
@@ -15,6 +15,3 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kush1195)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
