@@ -58,10 +58,8 @@
 <br>
 <br>
 <br>
-<br>
 
 <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
 <em><strong>My GitHub Stats:</strong></em>
-<br>
 <br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KushalMehta1995&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
