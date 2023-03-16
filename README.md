@@ -20,7 +20,7 @@
       <p - 👯 I’m looking to collaborate on>
       <p - 🤔 I’m looking for help with>
       <p - 💬 Ask me about ...>
-      <img src="https://github.com/KushalMehta1995/KushalMehta1995/blob/main/93699-coding.gif" width="450" height="370" align="right"/>
+      <img src="https://github.com/KushalMehta1995/KushalMehta1995/blob/main/93699-coding.gif" width="430" height="370" align="right"/>
 </p>
 
 
