@@ -10,32 +10,39 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
-
-Here are some ideas to get you started:
+<br>
 
 <div style="height: 100%; width:100%; font-size:0;">
-    <div id="header" align="start" style="width:50%;">
+    <div style="display:inline-block;zoom:1;vertical-align:top;font-size:12px;width:50%;">
       <p>
         I am a Senior Android Developer. I love programming and playing games.
+      </p>
+      <p>
         I have the passion and curiosity required to learn New Things In Android Technology, Habitually coding about Android Development For Android community.
       </p>
+      <p>
+        <b>Talking about my Personal Stuffs:</b>
+      </p>
+      <p>
+        - 🌱 I’m currently learning ...
+      </p>
+      <p>
+        - 👯 I’m looking to collaborate on ...
+      </p>
+      <p>
+        - 🤔 I’m looking for help with ...
+      </p>
+      <p>
+        - 💬 Ask me about ...
+      </p>
+      <p>
+        - 📫 How to reach me: ...
+      </p>
     </div>
-    <div id="footer" align="end" style="width:50%;">
+    <div style="display:inline-block;zoom:1;vertical-align:top;font-size:12px;width:50%;">
         <img src="https://github.com/KushalMehta1995/KushalMehta1995/blob/main/93699-coding.gif" width="250" height="250"/>
     </div>
 </div>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KushalMehta1995&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
