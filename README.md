@@ -3,14 +3,6 @@
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 
-I am a Senior Android Developer. I love programming and playing games.
-
-I have the passion and curiosity required to learn New Things In Android Technology, Habitually coding about Android Development For Android community
-
-<div id="header" align="end">
-    <img src="https://github.com/KushalMehta1995/KushalMehta1995/blob/main/93699-coding.gif" width="250" height="250"/>
-</div>
-
 Here are some ideas to get you started:
 
 <div style="height: 100%; width:100%; font-size:0;">
