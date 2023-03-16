@@ -1,4 +1,5 @@
 ### Hi there, I'm Kushal Mehta ![visitors](https://visitor-badge.glitch.me/badge?page_id=Kush1195.visitor-badge) 👋
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 I am a senior android developer. I love programming and playing games.
 
