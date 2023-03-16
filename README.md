@@ -9,6 +9,12 @@ I have the passion and curiosity required to learn New Things In Android Technol
 
 Here are some ideas to get you started:
 
+<div id="container" style="#container {height: 100%; width:100%; font-size: 0;}">
+    <div id="left">Left Side Menu</div>
+    <div id="middle">Random Content</div>
+    <div id="right">Right Side Menu</div>
+</div>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
