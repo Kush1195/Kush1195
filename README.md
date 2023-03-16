@@ -16,10 +16,10 @@
 <p align="center">
       <p I am a Senior Android Developer. I love programming and playing games. align="left">
       <p I have the passion and curiosity required to learn New Things In Android Technology>
-      <p - 🌱 I’m currently learning>
-      <p - 👯 I’m looking to collaborate on>
-      <p - 🤔 I’m looking for help with>
-      <p - 💬 Ask me about ...>
+      <p - 🤔  I’m currently working on something cool>
+      <p - 🌱 I’m currently learning MVVM with Clean Architecture>
+      <p - 👯 How to reach me: kushmehta1195@gmail.com>
+      <p - 💬 Ask me about anything, I am happy to help>
       <img src="https://github.com/KushalMehta1995/KushalMehta1995/blob/main/93699-coding.gif" width="410" height="350" align="right"/>
 </p>
 
