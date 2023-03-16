@@ -10,9 +10,9 @@ I have the passion and curiosity required to learn New Things In Android Technol
 Here are some ideas to get you started:
 
 <div id="container" style="#container {height: 100%; width:100%; font-size: 0;}">
-    <div id="left">Left Side Menu</div>
-    <div id="middle">Random Content</div>
-    <div id="right">Right Side Menu</div>
+    <div id="left" style="#left {width: 25%; background: blue;}">Left Side Menu</div>
+    <div id="middle" style="#middle {width: 50%; background: green;}">Random Content</div>
+    <div id="right" style="#right {width: 25%; background: yellow;}">Right Side Menu</div>
 </div>
 
 - 🔭 I’m currently working on ...
