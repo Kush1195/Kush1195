@@ -8,15 +8,15 @@ I am a Senior Android Developer. I love programming and playing games.
 I have the passion and curiosity required to learn New Things In Android Technology, Habitually coding about Android Development For Android community
 
 <div id="header" align="end">
-<img src="https://github.com/KushalMehta1995/KushalMehta1995/blob/main/93699-coding.gif" width="250" height="250"/>
+    <img src="https://github.com/KushalMehta1995/KushalMehta1995/blob/main/93699-coding.gif" width="250" height="250"/>
 </div>
 
 Here are some ideas to get you started:
 
-<div id="container" style="height: 100%; width:100%; font-size:0;">
-    <div id="left" style="display: inline-block; *display: inline; zoom: 1; vertical-align: top; font-size: 12px;width: 25%;">Left Side Menu</div>
-    <div id="middle" style="display: inline-block; *display: inline; zoom: 1; vertical-align: top; font-size: 12px;width: 50%;">Random Content</div>
-    <div id="right" style="display: inline-block; *display: inline; zoom: 1; vertical-align: top; font-size: 12px;width: 25%;">Right Side Menu</div>
+<div style="height: 100%; width:100%; font-size:0;">
+    <div align="start">Left Side Menu</div>
+    <div align="center">Random Content</div>
+    <div>Right Side Menu</div>
 </div>
 
 - 🔭 I’m currently working on ...
